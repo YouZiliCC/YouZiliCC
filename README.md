@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Undergraduate in **Data Science & Big-Data Technology**, Department of Information Management, **Peking University · 北京大学** — Class of 2024.
+- 🎓 Undergraduate in **Data Science & Big-Data Technology**, Department of Information Management, **Peking University**.
 - 🚀 Member of the **PKU Supercomputing Team (PKUSC · 未名超算队)**.
 - 🔬 Interested in **high-performance computing**, **parallel programming**, and **big-data systems**.
 - 🌱 Currently learning: *Everything*
