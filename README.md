@@ -1,4 +1,5 @@
-<p align="center"><i>Turning information into i
+<p align="center"><i>Turning information into insight, one commit at a time.</i></p>
+
 
 <h1 align="center">Hi 👋, I'm Zeno You</h1> <h3 align="center">Data Science & Big-Data Technology @ Peking University · PKU Supercomputing Team</h3> <p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=4F9DDE&center=true&vCenter=true&width=600&lines=Member+of+PKU+Supercomputing+Team+%28PKUSC%29;High-Performance+Computing+%26+Big+Data;Making+code+run+faster%2C+at+scale" alt="Typing SVG" /> </p> <p align="center">   <a href="https://hpc.pku.edu.cn/pkusc/en/members/2024/youzili/">     <img src="https://img.shields.io/badge/PKUSC-Supercomputing_Team-C7000B?style=flat&logoColor=white" alt="PKUSC" />   </a>   <img src="https://komarev.com/ghpvc/?username=YouZiliCC&label=Profile%20views&color=4F9DDE&style=flat" alt="profile views" /> </p>
 
@@ -31,4 +32,3 @@
 
 <p align="center"><i>Making code run faster — one core, one GPU, one cluster at a time. ⚡</i></p>
 
-nsight, one commit at a time.</i></p>
